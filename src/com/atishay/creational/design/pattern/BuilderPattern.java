@@ -1,4 +1,4 @@
-package com.atishay.proxy.design.pattern;
+package com.atishay.creational.design.pattern;
 
 /**
  * Builder Pattern This pattern falls in the category of Creational Pattern.
